@@ -1,5 +1,5 @@
 app:
-  applicationId: <YOUR_APPLICATION_ID>
+  applicationId: d541015b-cf57-4a0e-8c17-63d28c18b316
   env: Development
   host: http://localhost:10010
 tags:
